@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="GitLab Pages">
+    <title>Emanuel Poblano Resume</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    
+    <div class="navbar">
+      <a href="https://www.linkedin.com/in/emanuel-poblano-57a26a230/">Linkedin</a>
+      <a href="https://github.com/eman9700">Github</a>
+      <a href="https://gitlab.com/pages/">About</a>
+    </div>
+
+    <h1>Emanuel Poblano</h1>
+    <hr>
+    <p class="content">After finishing high school I took time off from heading to college. I started working because I was making decent money. Things changed along the way and here I am now doing the best I can to become a Software Engineer.</p>
+    <p>Why am i applying</p>
+    <p class="column">
+      <h3>Experience</h3>
+    </p>
+    <p class="column">
+      <h3>Education</h3>
+    </p>
+    
+    <p class="column">
+      <hr>
+      <h3>Contact</h3>
+      example1@gmail.com <br>
+      phone: 555-555-5555</p>
+  
+  </body>
+</html>
+
